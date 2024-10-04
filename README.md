@@ -1,4 +1,4 @@
-Hi 👋 My name is MingPV
+Hi 👋 My name is Ming
 =======================
 
 *   🖥️  See my portfolio at [https://mingpv.vercel.app/](http://mingpv.vercel.app/)
